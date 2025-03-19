@@ -1,4 +1,3 @@
 Toto je můj první commit
+Další změna v hlavní větvi
 Oprava chyb
-Další změna v hlavní větvi
-Další změna v hlavní větvi
